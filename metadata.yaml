@@ -1,0 +1,33 @@
+_repo: Mufti_24945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    alias: McNeile, Herman Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: In a town called Poperinghe, during the height of the German offensive
+  in May 1918, quartermaster-sergeant, Derek Vane, watches with mixed feelings as
+  a pilot and his observer are shot down. This penetrating story, which takes us through
+  to the end of the war, was written by a man who experienced it all.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24945'
+  lccn: '19011436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: Mufti
+url: http://www.gutenberg.org/ebooks/24945
